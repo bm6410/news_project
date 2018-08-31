@@ -6,7 +6,8 @@ This project is my attempt at completing the Logs Analysis project.
 
 ### **Installation**
 
-Just copy the news_project.py file to your local.  
+Just copy the news_project.py file to your local machine running python3 and
+psql.  
 
 ### **Usage**
 

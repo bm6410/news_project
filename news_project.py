@@ -1,5 +1,12 @@
 import psycopg2
 
+# #!/usr/bin/env python3
+
+"""news_project.py: Runs some reports against a psql news database."""
+
+__author__ = "Bijan Marashi (bm6410@att.com)"
+
+# the db we're using for this
 DBNAME = "news"
 
 # Views
